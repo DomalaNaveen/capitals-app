@@ -1,0 +1,20 @@
+.bg-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.result-card {
+  height: 50%;
+  width: 50%;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 1px 1px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
